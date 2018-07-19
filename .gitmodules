@@ -1,3 +1,6 @@
 [submodule "testsub"]
 	path = testsub
 	url = https://github.com/toanms/testsub
+[submodule "wpbootcamp"]
+	path = wpbootcamp
+	url = https://github.com/toanms/wpbootcamp
